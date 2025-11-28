@@ -33,7 +33,7 @@ const Tutorial = () => {
                         <p>Parâmetros: Certificado</p>
                         <li>Caminho arquivo.pfx ou Número de Série</li>
                         <div className="product-image">
-                            <img src={`${import.meta.env.BASE_URL}Tela_Certificado.jpg`} alt="Software Screenshot" className="product-screenshot" />
+                            <img src={`${import.meta.env.BASE_URL}Tela_Certificado.png`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
                     </div>
                     <div className="step-card">
