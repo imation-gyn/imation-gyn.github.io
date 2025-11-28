@@ -5,7 +5,7 @@ const Tutorial = () => {
         <section id="tutorial" className="section tutorial">
             <div className="container">
                 <h2 className="section-title">Tutorial para Uso</h2>
-                <p>Utilize as imagens exemplo e faça a congiuração do sistema</p>
+                <li>Utilize as imagens exemplo e faça sua configuração do sistema</li>
                 <div className="tutorial-content">
                     <div className="step-card">
                         <div className="step-icon">1</div>
