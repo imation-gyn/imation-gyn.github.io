@@ -18,7 +18,7 @@ const ProductFree = () => {
                         </ul>
                     </div>
                     <div className="product-image">
-                        <img src={`${import.meta.env.BASE_URL}print_tela.jpg`} alt="Software Screenshot" className="product-screenshot" />
+                        <img src={`${import.meta.env.BASE_URL}Tela_NFSe.jpg`} alt="Software Screenshot" className="product-screenshot" />
                     </div>
                 </div>
             </div>
