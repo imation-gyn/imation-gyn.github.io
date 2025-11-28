@@ -65,7 +65,7 @@ const Tutorial = () => {
                         <h3>Arquivos XML: NFSe</h3>
                         <p>Parâmetros: Arquivos</p>
                        <div className="product-image">
-                           <img src={`${import.meta.env.BASE_URL}Tela_Arquivos.jpg`} alt="Software Screenshot" className="product-screenshot" />
+                           <img src={`${import.meta.env.BASE_URL}Tela_ArquivosXML.jpg`} alt="Software Screenshot" className="product-screenshot" />
                        </div>                        
                     </div>
                     <div className="step-card">
@@ -73,7 +73,7 @@ const Tutorial = () => {
                         <h3>Documento Auxiar</h3>
                         <p>Parâmetros: DANFSe</p>
                        <div className="product-image">
-                           <img src={`${import.meta.env.BASE_URL}Tela_DocAuxiliar.jpg`} alt="Software Screenshot" className="product-screenshot" />
+                           <img src={`${import.meta.env.BASE_URL}Tela_Danfse.jpg`} alt="Software Screenshot" className="product-screenshot" />
                        </div>                        
                     </div>
                     <div className="step-card">
@@ -81,7 +81,7 @@ const Tutorial = () => {
                         <h3>Servidor de e-mail</h3>
                         <p>Parâmetros: e-mail</p>
                        <div className="product-image">
-                           <img src={`${import.meta.env.BASE_URL}Tela_email.jpg`} alt="Software Screenshot" className="product-screenshot" />
+                           <img src={`${import.meta.env.BASE_URL}Tela_e-mail.jpg`} alt="Software Screenshot" className="product-screenshot" />
                        </div>                        
                     </div>
                     <div className="step-card">
