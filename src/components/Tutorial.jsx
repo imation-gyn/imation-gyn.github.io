@@ -11,7 +11,8 @@ const Tutorial = () => {
                     <div className="step-card">
                         <div className="step-icon">1</div>
                         <h3>Dados de Acesso</h3>
-                        <p>Tela de Login:</p>
+                        <p>Tela de Login !</p>
+                        <li>Senha: 123</li>
                         <div className="product-image">
                            <img src={`${import.meta.env.BASE_URL}Tela_Login.png`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
@@ -21,6 +22,7 @@ const Tutorial = () => {
                         <h3>Dados do Emitente</h3>
                         <p>Cadastro de Empresas:</p>
                         <li>Atualizar com os dados de sua empresa</li>
+                        <li>* Tela de exemplo *</li>
                         <div className="product-image">
                            <img src={`${import.meta.env.BASE_URL}Tela_Empresas.jpg`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
