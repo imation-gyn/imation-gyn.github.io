@@ -38,53 +38,15 @@ const Tutorial = () => {
                     </div>
                     <div className="step-card">
                         <div className="step-icon">4</div>
-                        <h3>Schemas NFSE</h3>
-                        <p>Parâmetros: Geral</p>
-                        <li>C:\Imatech\OpenErp\Schemas\NFSe</li>
-                        <div className="product-image">
-                            <img src={`${import.meta.env.BASE_URL}Tela_Geral.jpg`} alt="Software Screenshot" className="product-screenshot" />
-                        </div>                        
-                    </div> 
-                    <div className="step-card">
-                        <div className="step-icon">5</div>
-                        <h3>WebService</h3>
-                        <p>Parâmetros: WebService</p>
-                        <div className="product-image">
-                            <img src={`${import.meta.env.BASE_URL}Tela_WebService.jpg`} alt="Software Screenshot" className="product-screenshot" />
-                        </div>                        
-                    </div>
-                    <div className="step-card">
-                        <div className="step-icon">6</div>
-                        <h3>Arquivos XML: NFSe</h3>
-                        <p>Parâmetros: Arquivos</p>
-                        <li>C:\Imatech\OpenErp\Arqs</li>
-                        <div className="product-image">
-                            <img src={`${import.meta.env.BASE_URL}Tela_ArquivosXML.jpg`} alt="Software Screenshot" className="product-screenshot" />
-                        </div>                        
-                    </div>
-                    <div className="step-card">
-                        <div className="step-icon">7</div>
                         <h3>Documento Auxiar</h3>
                         <p>Parâmetros: DANFSe</p>
-                        <li>CNPJ Prefeitura de Goiânia-GO: 01612092000123</li>
-                        <li>Prefeitura Municipal de Goiânia-GO.;Secretaria Municipal de Finanças - Fone: (62) 3524-3335;https://www.goiania.go.gov.br/</li>
-                        <li>C:\Imatech\OpenErp\Img\Prefeitura_Goiania.png</li>
-                        <li>C:\Imatech\OpenErp\Img\Table.png</li>
-                        <li>C:\Imatech\OpenErp\PDF</li>
+                        <li>Ajuste os dados/imagens, conforme exemplo</li>
                         <div className="product-image">
                             <img src={`${import.meta.env.BASE_URL}Tela_Danfse.jpg`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
                     </div>
                     <div className="step-card">
-                        <div className="step-icon">8</div>
-                        <h3>Servidor de e-mail</h3>
-                        <p>Parâmetros: e-mail</p>
-                        <div className="product-image">
-                            <img src={`${import.meta.env.BASE_URL}Tela_e-mail.jpg`} alt="Software Screenshot" className="product-screenshot" />
-                        </div>                        
-                    </div>
-                    <div className="step-card">
-                        <div className="step-icon">9</div>
+                        <div className="step-icon">5</div>
                         <h3>Emissão: NFSe</h3>
                         <p>Pronto para Uso</p>
                         <p>agora vamos a emissão de Notas Fiscais: NFSe</p>
