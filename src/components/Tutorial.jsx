@@ -48,18 +48,18 @@ const Tutorial = () => {
                     <div className="step-card">
                         <div className="step-icon">5</div>
                         <h3>Emissão: NFSe</h3>
-                        <p>Pronto para Uso</p>
-                        <p>agora vamos a emissão de Notas Fiscais: NFSe</p>
+                        <p></p>
+                        <p>Vamos agora a emissão de Notas Fiscais: NFSe</p>
                         <p></p>
                         <p>Abaixo e a esquerda informe a Numeração já utilizada</p>
-                        <p>Clicar: Importar XXML</p>
+                        <p>Clicar: Importar XML</p>
                         <p></p>
                         <p>Todas as NFSe já emitidas serão importadas para a base de dados</p>
                         <p></p>
-                        <p>[+]Nova NFSe:</p>
+                        <p>[&#10133] Nova NFSe:</p>
                         <p>Preencha os campos vazios e clique em Enviar</p>
                         <p></p>
-                        <p>Pronto para a próxima</p>
+                        <p>&oplus Pronto para a próxima &oplus</p>
                         <div className="product-image">
                             <img src={`${import.meta.env.BASE_URL}Tela_NFSe.jpg`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
