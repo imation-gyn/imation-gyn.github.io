@@ -59,7 +59,7 @@ const Tutorial = () => {
                         <p>[➕] Nova NFSe:</p>
                         <p>Preencha os campos vazios e clique em Enviar</p>
                         <p></p>
-                        <p>[➕] Pronto para a próxima [➕]</p>
+                        <p>[✅] Pronto para a próxima [✅]</p>
                         <div className="product-image">
                             <img src={`${import.meta.env.BASE_URL}Tela_NFSe.jpg`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        

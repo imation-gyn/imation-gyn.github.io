@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="footer-section brand-section">
                     <h3>Imation Tecnologia</h3>
                     <p>Simplificando o seu dia com TI</p>
-                    <p>➕</p>
+                    <p>[✅]</p>
                     <p>Avenida T-36, 3182, Sl.1006, Setor Bueno</p>
                     <p>Edifício Aquárius Center</p>
                     <p>Goiânia-GO.</p>
