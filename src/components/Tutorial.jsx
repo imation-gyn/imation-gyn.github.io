@@ -52,11 +52,11 @@ const Tutorial = () => {
                         <div className="step-icon">5</div>
                         <h3>Emissão: NFSe</h3>
                         <p></p>
-                        <p>Vamos agora a emissão de Notas Fiscais: NFSe</li>
+                        <p>Vamos agora a emissão de Notas Fiscais: NFSe</p>
                         <p></p>
-                        <li>Abaixo e a esquerda informe a Numeração já utilizada</p>
+                        <li>Abaixo e a esquerda informe a Numeração já utilizada</li>
                         <li>Clicar: Importar XML</li>
-                        <li></p>
+                        <li></li>
                         <li>Todas as NFSe já emitidas serão importadas para a base de dados</li>
                         <li></li>
                         <li>[➕] Nova NFSe:</li>
