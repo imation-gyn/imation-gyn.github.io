@@ -56,10 +56,10 @@ const Tutorial = () => {
                         <p></p>
                         <p>Todas as NFSe já emitidas serão importadas para a base de dados</p>
                         <p></p>
-                        <p>[ ➕ ] Nova NFSe:</p>
+                        <p>[➕] Nova NFSe:</p>
                         <p>Preencha os campos vazios e clique em Enviar</p>
                         <p></p>
-                        <p>➕ Pronto para a próxima ➕</p>
+                        <p>[➕] Pronto para a próxima [➕]</p>
                         <div className="product-image">
                             <img src={`${import.meta.env.BASE_URL}Tela_NFSe.jpg`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
