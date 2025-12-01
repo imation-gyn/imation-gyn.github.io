@@ -5,8 +5,8 @@ const Tutorial = () => {
         <section id="tutorial" className="section tutorial">
             <div className="container">
                 <h2 className="section-title">Tutorial para Uso</h2>
-                <li className="section-title">Utilize as imagens exemplo e faça sua configuração do sistema</li>
-                <li className="section-title">Informe os dados de sua(s) empresa(s)</li>
+                <h3 className="section-title">Utilize as imagens exemplo e faça sua configuração do sistema</h3>
+                <h3 className="section-title">Informe os dados de sua(s) empresa(s)</h3>
                 <div className="tutorial-content">
                     <div className="step-card">
                         <div className="step-icon">1</div>
@@ -39,7 +39,6 @@ const Tutorial = () => {
                         <ul className="feature-list">
                            <li>Caminho arquivo.pfx ou Número de Série</li>
                         </ul>
-                        <li></li>
                         <div className="product-image">
                             <img src={`${import.meta.env.BASE_URL}Tela_Certificado.png`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
