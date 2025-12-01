@@ -28,7 +28,6 @@ const Tutorial = () => {
                            <li>Atualizar com os dados de sua empresa</li>
                            <li>* Tela de exemplo *</li>
                         </ul>
-                        <li></li>
                         <div className="product-image">
                            <img src={`${import.meta.env.BASE_URL}Tela_Empresas.jpg`} alt="Software Screenshot" className="product-screenshot" />
                         </div>                        
