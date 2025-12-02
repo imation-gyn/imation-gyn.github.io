@@ -71,7 +71,10 @@ const Tutorial = () => {
                         <p>[✅] Pronto para a próxima [✅]</p>
                         <div className="product-image">
                             <img src={`${import.meta.env.BASE_URL}Tela_NFSe.jpg`} alt="Software Screenshot" className="product-screenshot" />
-                        </div>                        
+                        </div>
+                        <p>Prefeitura de Goiânia-GO.</p>
+                        <p>URL para solicitação de documentos fiscais:</p>
+                        <p>url="https://www.issnetonline.com.br/goiania/Online/Login/Login.aspx"</p>
                     </div>
                 </div>
             </div>
