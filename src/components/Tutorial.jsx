@@ -74,7 +74,7 @@ const Tutorial = () => {
                         </div>
                         <p>Prefeitura de Goiânia-GO.</p>
                         <p>URL para solicitação de documentos fiscais:</p>
-                        <p>url="https://www.issnetonline.com.br/goiania/Online/Login/Login.aspx"</p>
+                        <p><a href="https://www.issnetonline.com.br/goiania/Online/Login/Login.aspx">https://www.issnetonline.com.br/goiania/Online/Login/Login.aspx</a></p>                        
                     </div>
                 </div>
             </div>
