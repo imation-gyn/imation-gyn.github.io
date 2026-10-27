@@ -44,6 +44,10 @@ const Footer = () => {
                             55 (62) 98425-0200
                         </a>
                     </div>
+                    <div className="contact-item">
+                        <li><a href="#hero">Contribuições: Chave PIX</a></li>
+                        <li><a href="#about">7c4206a9-ae91-4561-b669-05b77ac04c17</a></li>
+                    </div>
                 </div>
             </div>
             <div className="footer-bottom">
